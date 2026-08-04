@@ -1,0 +1,5 @@
+opencv-python
+mediapipe==0.10.35
+deepface==0.0.100
+tensorflow==2.21.0
+numpy
