@@ -23,11 +23,18 @@ A real-time computer vision project built using **Python**, **OpenCV**, and **Me
 ## 📂 Project Structure
 
 ```text
-Face-and-Hand-Recognition/
-│── main.py
-│── requirements.txt
+Pixel_Sense/
 │── README.md
+│── config.py
+│── face_analyzer.py
+│── gesture_classifier.py
+│── hand_analyzer.py
+│── main.py
+│── pixelsense.py
+│── requirements.txt
+│── smoothing.py
 ```
+
 
 ## ⚙️ Installation
 
