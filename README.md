@@ -80,6 +80,6 @@ python main.py
 
 ## 👩‍💻 Author
 
-**Mahalakshmi N. Mohan**
+**Mahalakshmi N.M**
 
 If you found this project useful, feel free to ⭐ the repository.
